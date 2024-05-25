@@ -5,7 +5,7 @@
 
 ## First clone this project
 ```
-git clone https://github.com/atrahman23/sauceautomation.git
+git clone https://github.com/atrahman23/automationkinetik.git
 ```
 
 ## Open project in code editor
